@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todolist1-new-gayan/static/css/main.cba70add.css",
+    "main.js": "/todolist1-new-gayan/static/js/main.b9e35971.js",
+    "static/js/787.0cd2e519.chunk.js": "/todolist1-new-gayan/static/js/787.0cd2e519.chunk.js",
+    "index.html": "/todolist1-new-gayan/index.html",
+    "main.cba70add.css.map": "/todolist1-new-gayan/static/css/main.cba70add.css.map",
+    "main.b9e35971.js.map": "/todolist1-new-gayan/static/js/main.b9e35971.js.map",
+    "787.0cd2e519.chunk.js.map": "/todolist1-new-gayan/static/js/787.0cd2e519.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cba70add.css",
+    "static/js/main.b9e35971.js"
+  ]
+}
